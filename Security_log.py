@@ -18,9 +18,7 @@ LOG_PATTERN = re.compile(
     r"^(\d{4}-\d{2}-\d{2}\s\d{2}:\d{2}:\d{2})\s+(\d{1,3}(?:\.\d{1,3}){3})\s+(\w+)\s+user=(\w+)$"
 )
 
-# -----------------------------------------------------------------------------
 # AUDIT LOG WRITER & NETWORK HELPERS
-# -----------------------------------------------------------------------------
 
 
 def get_client_ip() -> str:
@@ -59,9 +57,9 @@ def write_security_log(event_type: str, username: str, ip: str = None):
         print(f"[Warning] Failed to write to {LOG_FILE}: {err}")
 
 
-# -----------------------------------------------------------------------------
+
 # AUTHENTICATION MODULE
-# -----------------------------------------------------------------------------
+
 
 
 def load_user_db():
@@ -202,9 +200,9 @@ def auth_gateway():
             print("[Error] Invalid option. Enter 1, 2, or 3.")
 
 
-# -----------------------------------------------------------------------------
+
 # LOG PARSING & AUDITING MODULE
-# -----------------------------------------------------------------------------
+
 
 
 def render_progress_bar(current, total, bar_length=40, prefix="Parsing Logs"):
