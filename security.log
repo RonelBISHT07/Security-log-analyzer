@@ -1,0 +1,19 @@
+2026-08-20 10:15:21 192.168.1.10 LOGIN_SUCCESS user=rahul
+, register, on lictary dha, password me charged. Json, you have stor, like security log alger. Terity log me log in the hua charge, Joe no, you know Alex User Json, me a shileeach bar no many licra, John Security Council Security law myta, bus data, you different, yem. For example, I plays a millions channel user, mail save, acadester, log in kerta no kind of security law, mane so data drenge, my bus check, log in karta
+2026-08-20 10:15:31 192.168.1.20 LOGIN_FAILED user=admin
+2026-08-20 10:15:34 192.168.1.20 LOGIN_FAILED user=admin
+2026-08-20 10:15:40 192.168.1.10 LOGIN_SUCCESS user=rahul
+2026-08-20 10:16:02 192.168.1.30 LOGIN_FAILED user=test
+2026-08-20 10:16:11 192.168.1.30 LOGIN_SUCCESS user=test
+2026-08-20 10:16:45 192.168.1.40 LOGIN_FAILED user=guest
+2026-08-20 10:17:02 192.168.1.20 LOGIN_SUCCESS user=admin
+2026-08-20 10:17:18 192.168.1.40 LOGIN_FAILED user=guest
+2026-08-20 10:17:31 192.168.1.40 LOGIN_FAILED user=guest
+2026-08-20 10:18:04 192.168.1.50 FILE_ACCESS user=rahul
+2026-08-20 10:18:22 192.168.1.20 LOGOUT user=admin
+2026-08-20 10:19:05 192.168.1.40 LOGIN_SUCCESS user=guest
+2026-08-20 10:19:44 192.168.1.60 LOGIN_FAILED user=unknown
+MALFORMED LOG ENTRY2026-09-06 17:10:49  LOGIN_SUCCESS user=ronelbisht
+2026-09-06 17:15:19 192.168.31.24 LOGIN_SUCCESS user=ronavi
+2026-09-07 19:11:31 192.168.31.40 LOGIN_FAILED user=rnel1234
+2026-09-07 19:11:43 192.168.31.90 LOGIN_SUCCESS user=ronel1234
